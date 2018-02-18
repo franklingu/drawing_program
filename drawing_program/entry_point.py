@@ -15,6 +15,7 @@ def main():
             elif isinstance(result, tuple):
                 should_exit = result[1]
                 print(result[0])
+            print()
         except Exception as err:
             print('Unhandled exception happened')
             raise
