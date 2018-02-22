@@ -1,6 +1,8 @@
 Drawing Program
 ====================================================
 
+[![Build Status](https://travis-ci.org/franklingu/drawing_program.svg?branch=master)](https://travis-ci.org/franklingu/drawing_program)
+
 ### Intro
 
 Implements a simple command line drawing program specified in (problem)[./problem_desciption.md]
